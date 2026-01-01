@@ -30,10 +30,9 @@ The dashboard converts raw Uber ride data into interactive visuals and actionabl
 - Operational performance is stable with scope to reduce peak-time arrival delays
 
 
-📈 Booking & Demand Analysis
+# Booking & Demand Analysis
 ![Uber Dashboard - Executive Summary](dashboard_screenshots/uber1.png)
 
-# Booking & Demand Analysis
 Insights
 - Ride bookings remain consistent across the year, with peaks in March, July, and October
 - Weekday rides dominate, indicating strong office-hour demand
