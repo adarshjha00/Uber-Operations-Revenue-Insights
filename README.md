@@ -6,10 +6,8 @@ This project presents a comprehensive Uber Ride Analytics Dashboard built entire
 The dashboard converts raw Uber ride data into interactive visuals and actionable insights, enabling business stakeholders to monitor performance, identify bottlenecks, and optimize decision-making.
 
 
-🧠 Executive Summary & Key KPIs
-![Uber Dashboard - Executive Summary](dashboard_screenshots/uber0.png)
-
 ## Executive Summary & Key KPIs
+![Uber Dashboard - Executive Summary](dashboard_screenshots/uber0.png)
 
 # Key KPIs
 - Total Revenue: $51.85M
@@ -35,7 +33,7 @@ The dashboard converts raw Uber ride data into interactive visuals and actionabl
 
 # Key KPIs
 - Total Rides: 93K
-- Incomplete Rides: 8.9K
+- Incomplete Rides: 8994
 
 ## Booking Insights
 - Ride bookings remain consistent throughout the year, with noticeable peaks in March, July, and October
