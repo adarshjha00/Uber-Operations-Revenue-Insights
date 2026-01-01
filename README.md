@@ -30,14 +30,20 @@ The dashboard converts raw Uber ride data into interactive visuals and actionabl
 - Operational performance is stable with scope to reduce peak-time arrival delays
 
 
-# Booking & Demand Analysis
+## Booking & Demand Analysis
 ![Uber Dashboard - Executive Summary](dashboard_screenshots/uber1.png)
 
-Insights
-- Ride bookings remain consistent across the year, with peaks in March, July, and October
-- Weekday rides dominate, indicating strong office-hour demand
-- Short-distance trips (0–10 km) account for the largest share of total bookings
-- Sunday generates the highest revenue among all days
+# Key KPIs
+- Total Rides: 93K
+- Incomplete Rides: 8.9K
+
+## Booking Insights
+- Ride bookings remain consistent throughout the year, with noticeable peaks in March, July, and October
+- Weekday rides dominate overall bookings, indicating strong office-hour and daily commute demand
+- Short-distance trips (0–10 km) contribute the highest share of total ride bookings
+- Sundays generate comparatively higher revenue, reflecting increased leisure and non-work travel
+- A small portion of rides remain incomplete, highlighting opportunities to improve driver allocation and pickup efficiency
+
 
 
 💰 Revenue Analysis
