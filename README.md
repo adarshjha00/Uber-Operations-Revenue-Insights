@@ -44,9 +44,26 @@ The dashboard converts raw Uber ride data into interactive visuals and actionabl
 
 
 
-💰 Revenue Analysis
+## Cancellations & Driver Analysis
 ![Uber Dashboard - Executive Summary](dashboard_screenshots/uber2.png)
 
+# Key Metrics :
+• Total Cancellations: 37.5K
+• Driver Cancellations: 27K (significantly higher than customer cancellations)
+• Incomplete Rides: 8,994
+
+# Cancellation Insights:
+• Major driver cancellation reasons include:
+• Customer-related issues
+• Too many passengers
+• Personal & vehicle-related reasons
+• Incomplete rides are mostly caused by:
+• Customer demand issues
+• Vehicle breakdowns
+• Cancellation rates remain consistent across weekdays, indicating stable ride fulfillment patterns
+
+
+revenue analysis
 Insights
 
 UPI is the most used payment method, contributing ~45% of total revenue
