@@ -45,7 +45,7 @@ The dashboard converts raw Uber ride data into interactive visuals and actionabl
 
 
 💰 Revenue Analysis
-![Uber Dashboard - Executive Summary](dashboard_screenshots/uber1.png)
+![Uber Dashboard - Executive Summary](dashboard_screenshots/uber2.png)
 
 Insights
 
